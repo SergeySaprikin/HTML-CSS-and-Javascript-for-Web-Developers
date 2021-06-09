@@ -178,7 +178,6 @@ span#title-3{
   }
   .col-sm-6 {
     width: 50%;
-    margin: 1%;
   }
   .col-sm-7 {
     width: 58.33%;
@@ -196,6 +195,7 @@ span#title-3{
     width: 91.66%;
   }
   .col-sm-12 {
-    width: 100%;
+    width: 96%;
+    margin: 2%;
   }
 }
