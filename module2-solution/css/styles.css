@@ -5,6 +5,7 @@
 h1 {
     margin-bottom: 15px;
     text-align: center;
+    font-size: 1.75em;
 }
 
 div {
@@ -38,6 +39,7 @@ p span#title-1{
      color: blue;
      background-color: yellow;
      padding: 2px 10px 2px 10px;
+      font-size: 1.25em;
 }
 
 span#title-2{
@@ -50,6 +52,7 @@ span#title-2{
      color: blue;
      background-color: red;
      padding: 2px 10px 2px 10px;
+      font-size: 1.25em;
 }
 
 span#title-3{
@@ -62,6 +65,7 @@ span#title-3{
      color: blue;
      background-color: magenta;
      padding: 2px 10px 2px 10px;
+      font-size: 1.25em;
 }
 
 /********** Large devices only **********/
